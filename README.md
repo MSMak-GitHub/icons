@@ -4,25 +4,25 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap Icons</h3>
+<h3 align="center">Иконки Bootstrap</h3>
 
 <p align="center">
-  Official open source SVG icon library for Bootstrap with over 1,600 icons.
+  Официальная библиотека иконок SVG с открытым исходным кодом для Bootstrap, содержащая более 1600 иконок.
   <br>
-  <a href="https://icons.getbootstrap.com/"><strong>Explore Bootstrap Icons »</strong></a>
+  <a href="https://icons.getbootstrap.com/"><strong>Исследуйте иконки Bootstrap »</strong></a>
   <br>
   <br>
   <a href="https://getbootstrap.com/">Bootstrap</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
+  <a href="https://themes.getbootstrap.com/">Темы</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://blog.getbootstrap.com/">Блог</a>
   <br>
 </p>
 
-[![Bootstrap Icons preview](https://github.com/twbs/icons/blob/main/.github/preview.png)](https://icons.getbootstrap.com)
+[![Иконки Bootstrap пред-просмотр](https://github.com/twbs/icons/blob/main/.github/preview.png)](https://icons.getbootstrap.com)
 
-## Install
+## Установка
 
 Bootstrap Icons are packaged up and published to npm. We only include the processed SVGs in this package—it's up to you and your team to implement. [Read our docs](https://icons.getbootstrap.com/) for usage instructions.
 
